@@ -15,6 +15,9 @@ npm run serve
 npm run build
 ```
 
+> buildすると、Vueファイルが、html/css/javascript(ブラウザが読めるファイル)に変換される。
+
+
 ### Lints and fixes files
 ```
 npm run lint
